@@ -1,0 +1,16 @@
+PODS:
+  - Geofence (0.1.0)
+
+DEPENDENCIES:
+  - Geofence (from `../`)
+
+EXTERNAL SOURCES:
+  Geofence:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Geofence: b8bb5d4f68b35b133511565bb1e7d2ac09430e7c
+
+PODFILE CHECKSUM: 99a77920f405f21206edddcffe7537c3f79b527d
+
+COCOAPODS: 1.5.3
